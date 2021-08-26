@@ -1,3 +1,1 @@
 Hello this is sample 2 file
-
-revert change
